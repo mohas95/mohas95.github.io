@@ -53,9 +53,9 @@ ninja.data = [{
           },
         },{id: "post-simulation-and-modeling-for-digital-plant-growth-representations",
       
-        title: "Simulation and Modeling for Digital Plant Growth Representations",
+        title: "Simulation and Modeling for Digital Plant Growth Representations.",
       
-      description: "5 minute seminar presentation given on the topic of simulation and modeling  for digital plant growth representation.",
+      description: "This presentation introduces key concepts and modeling paradigms towards developing a simulation framework for digital plant growth.",
       section: "Posts",
       handler: () => {
         
