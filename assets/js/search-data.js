@@ -51,15 +51,15 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/awards/";
           },
-        },{id: "post-",
+        },{id: "post-simulation-and-modeling-for-digital-plant-growth-representations",
       
-        title: "",
+        title: "Simulation and Modeling for Digital Plant Growth Representations",
       
-      description: "",
+      description: "5 minute seminar presentation given on the topic of simulation and modeling  for digital plant growth representation.",
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/lectures/2025/2025-01-23-PhDSeminar3/";
+          window.location.href = "/lectures/2025/PhDSeminar3/";
         
       },
     },{id: "post-introduction-to-compuational-photography-and-computer-vision",
