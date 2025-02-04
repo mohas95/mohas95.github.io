@@ -51,7 +51,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/awards/";
           },
-        },{id: "post-introduction-to-compuational-photography-and-computer-vision",
+        },{id: "post-",
+      
+        title: "",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/lectures/2025/2025-01-23-PhDSeminar3/";
+        
+      },
+    },{id: "post-introduction-to-compuational-photography-and-computer-vision",
       
         title: "Introduction to Compuational Photography and Computer Vision",
       
