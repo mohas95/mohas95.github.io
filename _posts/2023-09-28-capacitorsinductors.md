@@ -12,7 +12,7 @@ This lecture was given to second year students taking BREE312- Electric Circuits
 
 ### Lecture slides:
 
-<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://docs.google.com/presentation/d/e/2PACX-1vQeMCDDMSkRfVU1f6hFowe5kJDePUJCoM-fOuKWsLeECq1UyOAsQ6bOerbMB4mt-lds2JCf78qmDm1j/pub?start=true&loop=true&delayms=10000' frameborder='0' width='1440' height='839' allowfullscreen='true' mozallowfullscreen='true' webkitallowfullscreen='true'></iframe></div>
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://docs.google.com/presentation/d/e/2PACX-1vQeMCDDMSkRfVU1f6hFowe5kJDePUJCoM-fOuKWsLeECq1UyOAsQ6bOerbMB4mt-lds2JCf78qmDm1j/embed?start=true&loop=true&delayms=10000' frameborder='0' width='1440' height='839' allowfullscreen='true' mozallowfullscreen='true' webkitallowfullscreen='true'></iframe></div>
 <br/>
 
 
