@@ -1,0 +1,28 @@
+"AJP":
+  url: https://aapt.scitation.org/journal/ajp
+  color: "#00369f"
+
+"PhysRev":
+  url: https://journals.aps.org/
+
+"Vision":
+  color: "#009f36"
+
+"IAPR":
+  url: https://iapr.org/
+  color: "#4b2a91"
+
+"PREPRINT":
+  color: "#B31B1B"
+
+"ICPA":
+  url: https://www.ispag.org/ICPA
+
+"ESWA":
+  url: https://www.sciencedirect.com/journal/expert-systems-with-applications
+
+"CSBE":
+  url: https://csbe-scgab.ca/
+
+"ASABE":
+  url: https://www.asabe.org/
