@@ -3,7 +3,7 @@ layout: post
 title: Simulation and Modeling for Digital Plant Growth Representations
 date: 2025-01-23 15:06:00
 description: 5 minute seminar presentation given on the topic of simulation and modeling  for digital plant growth representation. 
-tags: "5-minutes-or-less", "simulation"
+tags: 5-minutes-or-less, simulation
 categories: seminar
 citation: true
 ---
