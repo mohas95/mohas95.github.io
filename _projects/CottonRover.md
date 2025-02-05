@@ -15,7 +15,6 @@ bibliography: 2018-12-22-distill.bib
 toc:
   - name: Overview
   - name: The Challenge
-    - name: The Playing Field
 _styles: >
   .fake-img {
     background: #bbb;
