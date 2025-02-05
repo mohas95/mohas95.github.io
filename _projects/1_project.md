@@ -5,12 +5,9 @@ description: with background image
 img: assets/img/12.jpg
 importance: 1
 category: on-going
-related_publications: true
-
 tags: distill formatting
 giscus_comments: false
 date: 2021-05-22
-featured: true
 mermaid:
   enabled: true
   zoomable: true
@@ -24,18 +21,11 @@ tikzjax: true
 typograms: true
 
 authors:
-  - name: Albert Einstein
-    url: "https://en.wikipedia.org/wiki/Albert_Einstein"
+  - name: Mohamed Debbagh
+    url: "mohas95@.github.io/"
     affiliations:
-      name: IAS, Princeton
-  - name: Boris Podolsky
-    url: "https://en.wikipedia.org/wiki/Boris_Podolsky"
-    affiliations:
-      name: IAS, Princeton
-  - name: Nathan Rosen
-    url: "https://en.wikipedia.org/wiki/Nathan_Rosen"
-    affiliations:
-      name: IAS, Princeton
+      name: McGill University
+
 
 bibliography: 2018-12-22-distill.bib
 
