@@ -5,7 +5,6 @@ description: with background image
 img: assets/img/12.jpg
 importance: 1
 category: Ag-Robots
-tags: distill formatting
 giscus_comments: false
 date: 2021-05-22
 authors:
