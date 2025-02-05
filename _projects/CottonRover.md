@@ -5,6 +5,8 @@ description:
 img: assets/img/cottonRover.png
 importance: 1
 category: Ag-Robots
+tags: distill formatting
+giscus_comments: false
 date: 2021-05-22
 authors:
   - name: Mohamed Debbagh
