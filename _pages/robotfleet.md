@@ -2,7 +2,7 @@
 layout: page
 title: robot fleet
 permalink: /robots/
-description: A growing collection of your cool projects.
+description: A roster of robots that I have developed.
 nav: false
 nav_order: 5
 display_categories: [Ag-Robots]
