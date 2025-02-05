@@ -143,7 +143,7 @@ ninja.data = [{
               window.location.href = "/projects/BERRE/";
             },},{id: "projects-cotton-rover",
           title: 'Cotton Rover',
-          description: "test",
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/CottonRover/";
             },},{
