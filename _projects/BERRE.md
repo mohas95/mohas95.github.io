@@ -1,8 +1,8 @@
 ---
 layout: distill
 title: BERR-E
-description: with background image
-img: assets/img/12.jpg
+description: 
+img: assets/img/berre.png
 importance: 1
 category: Ag-Robots
 tags: distill formatting
