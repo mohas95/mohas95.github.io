@@ -8,15 +8,30 @@ category: Ag-Robots
 tags: distill formatting
 giscus_comments: false
 date: 2021-05-22
+mermaid:
+  enabled: true
+  zoomable: true
+code_diff: true
+map: true
+chart:
+  chartjs: true
+  echarts: true
+  vega_lite: true
+tikzjax: true
+typograms: true
+
 authors:
   - name: Mohamed Debbagh
     url: "mohas95@.github.io/"
     affiliations:
       name: McGill University
+
 bibliography: 2018-12-22-distill.bib
+
 toc:
   - name: Overview
   - name: The Challenge
+
 _styles: >
   .fake-img {
     background: #bbb;
