@@ -1,7 +1,7 @@
 ---
 layout: distill
 title: Cotton Rover
-description: test
+description: 
 img: assets/img/cottonRover.png
 importance: 1
 category: Ag-Robots
@@ -50,6 +50,7 @@ _styles: >
 ---
 
 ## Overview
+
 The Cotton Rover (CR) is an autonomous robotic system specifically designed for the automation of cotton harvesting. The CR integrates several subsystems including a navigation system, cotton detection and mapping system, harvesting mechanism, and delivery system. The CR demonstrates the application of robotics in the context of agriculture contributes to advancements in automated precision agriculture technology.
 
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://mail93832.autodesk360.com/shares/public/SHd38bfQT1fb47330c99ef8447249f44dc17?mode=embed' width='1024' height='768' allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true'  frameborder='0'></iframe></div>
