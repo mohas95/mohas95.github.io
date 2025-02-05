@@ -2,7 +2,7 @@
 layout: page
 title: datasets
 permalink: /datasets/
-description: Datasets that I have made available. Please take careful note of the lisences.
+description: Datasets that I have made available. Please take careful note of the lisences in place for each dataset.
 nav: false
 nav_order: 4
 display_categories: [Datasets]
