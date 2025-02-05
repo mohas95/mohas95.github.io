@@ -5,7 +5,7 @@ permalink: /robots/
 description: A growing collection of your cool projects.
 nav: false
 nav_order: 5
-display_categories: [work, fun]
+display_categories: [Ag-Robots]
 horizontal: false
 ---
 

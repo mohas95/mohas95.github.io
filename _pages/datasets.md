@@ -5,12 +5,12 @@ permalink: /datasets/
 description: A growing collection of your cool projects.
 nav: false
 nav_order: 4
-display_categories: [work, fun]
+display_categories: [Datasets]
 horizontal: false
 collection: datasets
 ---
 
-<!-- pages/datasets.md -->
+<!-- pages/projects.md -->
 <div class="projects">
 {% if site.enable_project_categories and page.display_categories %}
   <!-- Display categorized projects -->
@@ -18,8 +18,8 @@ collection: datasets
   <a id="{{ category }}" href=".#{{ category }}">
     <h2 class="category">{{ category }}</h2>
   </a>
-  {% assign categorized_projects = site.datasets | where: "category", category %}
-  {% assign sorted_projects = categorized_datasets | sort: "importance" %}
+  {% assign categorized_projects = site.projects | where: "category", category %}
+  {% assign sorted_projects = categorized_projects | sort: "importance" %}
   <!-- Generate cards for each project -->
   {% if page.horizontal %}
   <div class="container">
@@ -42,7 +42,7 @@ collection: datasets
 
 <!-- Display projects without categories -->
 
-{% assign sorted_projects = site.datasets | sort: "importance" %}
+{% assign sorted_projects = site.projects | sort: "importance" %}
 
   <!-- Generate cards for each project -->
 
