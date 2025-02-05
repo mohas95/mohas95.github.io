@@ -196,6 +196,7 @@ exclude:
   - _pages/repositories.md
   - _pages/cv.md
   - _pages/profiles.md
+  - _projects/distill_template.md
   - purgecss.config.js
   - README.md
   - readme_preview/
