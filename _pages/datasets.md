@@ -2,7 +2,7 @@
 layout: page
 title: datasets
 permalink: /datasets/
-description: A growing collection of your cool projects.
+description: Datasets that I have made available. Please take careful note of the lisences.
 nav: false
 nav_order: 4
 display_categories: [Datasets]
