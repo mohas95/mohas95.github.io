@@ -7,6 +7,7 @@ nav: false
 nav_order: 4
 display_categories: [work, fun]
 horizontal: false
+collection: datasets
 ---
 
 <!-- pages/datasets.md -->
