@@ -14,19 +14,10 @@ authors:
     affiliations:
       name: McGill University
 bibliography: 2018-12-22-distill.bib
-
-# Optionally, you can add a table of contents to your post.
-# NOTES:
-#   - make sure that TOC names match the actual section names
-#     for hyperlinks within the post to work correctly.
-#   - we may want to automate TOC generation in the future using
-#     jekyll-toc plugin (https://github.com/toshimaru/jekyll-toc).
 toc:
   - name: Overview
   - name: The Challenge
-
-# Below is an example of injecting additional post-specific styles.
-# If you use this post as a template, delete this _styles block.
+    - name: The Playing Field
 _styles: >
   .fake-img {
     background: #bbb;
