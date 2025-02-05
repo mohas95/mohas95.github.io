@@ -136,16 +136,16 @@ ninja.data = [{
           description: "a project that redirects to another website",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
-            },},{id: "projects-berr-e",
-          title: 'BERR-E',
-          description: "",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/BERRE/";
             },},{id: "projects-cotton-rover",
           title: 'Cotton Rover',
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/CottonRover/";
+            },},{id: "projects-berr-e",
+          title: 'BERR-E',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/BERRE/";
             },},{
         id: 'social-email',
         title: 'email',
