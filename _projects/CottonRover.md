@@ -1,11 +1,10 @@
 ---
 layout: distill
 title: Cotton Rover
-description: with background image
-img: assets/img/12.jpg
+description: 
+img: assets/img/cottonRover.png
 importance: 1
 category: Ag-Robots
-giscus_comments: false
 date: 2021-05-22
 authors:
   - name: Mohamed Debbagh
