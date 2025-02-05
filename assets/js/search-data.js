@@ -141,9 +141,9 @@ ninja.data = [{
           description: "with background image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/BERRE/";
-            },},{id: "projects-cotton-rover",
-          title: 'Cotton Rover',
-          description: "with background image",
+            },},{id: "projects-",
+          title: '',
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/CottonRover/";
             },},{
