@@ -2,6 +2,7 @@
 layout: post
 title: Simulation and Modeling for Digital Plant Growth Representations.
 date: 2025-01-23 15:06:00
+featured: true
 description:  This presentation introduces key concepts and modeling paradigms towards developing a simulation framework for digital plant growth.
 tags: simulation, 5-minutes-or-less
 categories: seminar
