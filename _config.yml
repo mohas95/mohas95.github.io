@@ -152,6 +152,12 @@ collections:
   projects:
     output: true
     permalink: /:collection/:title/
+  datasets:
+    output: true
+    permalink: /:collection/:title/
+  robotfleet:
+    output: true
+    permalink: /:collection/:title/
 # -----------------------------------------------------------------------------
 # Jekyll settings
 # -----------------------------------------------------------------------------
