@@ -1,7 +1,7 @@
 ---
 layout: distill
 title: Cotton Rover
-description: 
+description: test
 img: assets/img/cottonRover.png
 importance: 1
 category: Ag-Robots
