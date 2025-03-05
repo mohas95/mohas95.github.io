@@ -75,7 +75,7 @@ I am a currently a Ph.D. candidate in the department of Bioresource Engineering 
 - **Controlled Environment Agriculture**
   - Biomass Production Methods and Quality Control
   - Nutrient Pathways & Biochemical Optimization
-  - Urban Agriculture Distribution Practices
+  - Urban Agriculture Distribution Practices and Food Equity
 - **Plant Perception**
   - Environmental Interactions and Pattern Recognition
   - Plant Resource Management, Strategies, and Game Theory
