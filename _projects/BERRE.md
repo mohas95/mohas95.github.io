@@ -48,6 +48,9 @@ _styles: >
     text-align: center;
     font-size: 16px;
   }
+
+permalink: /datasets/BERRE/
+
 ---
 
 Page being Constructed.. please stay tuned!
