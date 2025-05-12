@@ -1,6 +1,7 @@
 ---
 layout: distill
 title: Cotton Rover
+permalink: /robots/CottonRover/
 description: 
 img: assets/img/cottonRover.png
 importance: 1
