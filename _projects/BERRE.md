@@ -1,7 +1,8 @@
 ---
 layout: distill
 title: BERR-E
-description: 
+description:
+permalink: /robots/BERRE/
 img: assets/img/berre.png
 importance: 1
 category: Ag-Robots
@@ -49,7 +50,6 @@ _styles: >
     font-size: 16px;
   }
 
-permalink: /robots/BERRE/
 
 ---
 
