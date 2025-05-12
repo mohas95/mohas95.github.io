@@ -145,7 +145,7 @@ ninja.data = [{
           title: 'BERR-E',
           description: "",
           section: "Projects",handler: () => {
-              window.location.href = "/datasets/BERRE/";
+              window.location.href = "/robots/BERRE/";
             },},{
         id: 'social-email',
         title: 'email',
