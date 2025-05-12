@@ -140,7 +140,7 @@ ninja.data = [{
           title: 'Cotton Rover',
           description: "",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/CottonRover/";
+              window.location.href = "/robots/CottonRover/";
             },},{id: "projects-berr-e",
           title: 'BERR-E',
           description: "",
