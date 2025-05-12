@@ -49,7 +49,7 @@ _styles: >
     font-size: 16px;
   }
 
-permalink: /datasets/BERRE/
+permalink: /robots/BERRE/
 
 ---
 
