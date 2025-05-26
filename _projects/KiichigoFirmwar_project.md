@@ -5,5 +5,5 @@ description: stepper motor motion firmware for RP2040-based microcontrollers (Ra
 img: assets/img/motion.gif
 redirect: https://mohas95.github.io/kiichigoFirmware
 importance: 1
-category: on-going
+category: utility
 ---
