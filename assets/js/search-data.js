@@ -51,11 +51,11 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/awards/";
           },
-        },{id: "post-google-alphabet-wide-modeling-talk-series",
+        },{id: "post-google-alphabet-modeling-talk-series-predictive-pattern-recognition-of-plant-growth-traits-in-simulated-and-controlled-environments",
       
-        title: "Google/Alphabet wide Modeling Talk Series",
+        title: "Google/Alphabet Modeling Talk Series - Predictive Pattern Recognition of Plant Growth Traits in...",
       
-      description: "This presentation introduces key concepts and modeling paradigms towards developing a simulation framework for digital plant growth.",
+      description: "This talk was presented for the Google/Alphabet Modeling Talk Series",
       section: "Posts",
       handler: () => {
         
