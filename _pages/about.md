@@ -378,40 +378,43 @@ input:checked + .slider:before {
 
   <div class="galrow">
     <div class="galcolumn">
-      <img class="demo cursor" src="assets/img/slideshow/001.jpg" style="width:100%" onclick="currentSlide(1)" alt="">
+      <img class="demo cursor" src="assets/img/slideshow/015.gif" style="width:100%" onclick="currentSlide(1)" alt="">
     </div>
     <div class="galcolumn">
-      <img class="demo cursor" src="assets/img/slideshow/002.jpg" style="width:100%" onclick="currentSlide(2)" alt="">
+      <img class="demo cursor" src="assets/img/slideshow/001.jpg" style="width:100%" onclick="currentSlide(2)" alt="">
     </div>
     <div class="galcolumn">
-      <img class="demo cursor" src="assets/img/slideshow/012.gif" style="width:100%" onclick="currentSlide(3)" alt="">
+      <img class="demo cursor" src="assets/img/slideshow/002.jpg" style="width:100%" onclick="currentSlide(3)" alt="">
     </div>
     <div class="galcolumn">
-      <img class="demo cursor" src="assets/img/slideshow/003.jpg" style="width:100%" onclick="currentSlide(4)" alt="">
+      <img class="demo cursor" src="assets/img/slideshow/012.gif" style="width:100%" onclick="currentSlide(4)" alt="">
     </div>
     <div class="galcolumn">
-      <img class="demo cursor" src="assets/img/slideshow/004.jpg" style="width:100%" onclick="currentSlide(5)" alt="">
+      <img class="demo cursor" src="assets/img/slideshow/003.jpg" style="width:100%" onclick="currentSlide(5)" alt="">
     </div>
     <div class="galcolumn">
-      <img class="demo cursor" src="assets/img/slideshow/005.jpg" style="width:100%" onclick="currentSlide(6)" alt="">
+      <img class="demo cursor" src="assets/img/slideshow/004.jpg" style="width:100%" onclick="currentSlide(6)" alt="">
+    </div>
+    <div class="galcolumn">
+      <img class="demo cursor" src="assets/img/slideshow/005.jpg" style="width:100%" onclick="currentSlide(7)" alt="">
     </div>    
     <div class="galcolumn">
-      <img class="demo cursor" src="assets/img/slideshow/006.jpg" style="width:100%" onclick="currentSlide(7)" alt="">
+      <img class="demo cursor" src="assets/img/slideshow/006.jpg" style="width:100%" onclick="currentSlide(8)" alt="">
     </div>
     <div class="galcolumn">
-      <img class="demo cursor" src="assets/img/slideshow/007.jpg" style="width:100%" onclick="currentSlide(8)" alt="">
+      <img class="demo cursor" src="assets/img/slideshow/007.jpg" style="width:100%" onclick="currentSlide(9)" alt="">
     </div>
     <div class="galcolumn">
-      <img class="demo cursor" src="assets/img/slideshow/008.jpg" style="width:100%" onclick="currentSlide(9)" alt="">
+      <img class="demo cursor" src="assets/img/slideshow/008.jpg" style="width:100%" onclick="currentSlide(10)" alt="">
     </div>
     <div class="galcolumn">
-      <img class="demo cursor" src="assets/img/slideshow/009.jpg" style="width:100%" onclick="currentSlide(10)" alt="">
+      <img class="demo cursor" src="assets/img/slideshow/009.jpg" style="width:100%" onclick="currentSlide(11)" alt="">
     </div>
     <div class="galcolumn">
-      <img class="demo cursor" src="assets/img/slideshow/010.jpg" style="width:100%" onclick="currentSlide(11)" alt="">
+      <img class="demo cursor" src="assets/img/slideshow/010.jpg" style="width:100%" onclick="currentSlide(12)" alt="">
     </div>
     <div class="galcolumn">
-      <img class="demo cursor" src="assets/img/slideshow/011.gif" style="width:100%" onclick="currentSlide(12)" alt="">
+      <img class="demo cursor" src="assets/img/slideshow/011.gif" style="width:100%" onclick="currentSlide(13)" alt="">
     </div>
   </div>
 
@@ -419,61 +422,66 @@ input:checked + .slider:before {
 
   <div class="mySlides">
     <div class="numbertext">1</div>
-    <img src="assets/img/slideshow/001.jpg" style="width:100%">
+    <img src="assets/img/slideshow/015.gif" style="width:100%">
   </div>
 
   <div class="mySlides">
     <div class="numbertext">2</div>
-    <img src="assets/img/slideshow/002.jpg" style="width:100%">
+    <img src="assets/img/slideshow/001.jpg" style="width:100%">
   </div>
 
   <div class="mySlides">
     <div class="numbertext">3</div>
-    <img src="assets/img/slideshow/014.gif" style="width:100%">
+    <img src="assets/img/slideshow/002.jpg" style="width:100%">
   </div>
 
   <div class="mySlides">
     <div class="numbertext">4</div>
+    <img src="assets/img/slideshow/014.gif" style="width:100%">
+  </div>
+
+  <div class="mySlides">
+    <div class="numbertext">5</div>
     <img src="assets/img/slideshow/003.jpg" style="width:100%">
   </div>
     
   <div class="mySlides">
-    <div class="numbertext">5</div>
+    <div class="numbertext">6</div>
     <img src="assets/img/slideshow/004.jpg" style="width:100%">
   </div>
 
   <div class="mySlides">
-    <div class="numbertext">6</div>
+    <div class="numbertext">7</div>
     <img src="assets/img/slideshow/005.jpg" style="width:100%">
   </div>
     
   <div class="mySlides">
-    <div class="numbertext">7</div>
+    <div class="numbertext">8</div>
     <img src="assets/img/slideshow/006.jpg" style="width:100%">
   </div>
 
   <div class="mySlides">
-    <div class="numbertext">8</div>
+    <div class="numbertext">9</div>
     <img src="assets/img/slideshow/007.jpg" style="width:100%">
   </div>
 
   <div class="mySlides">
-    <div class="numbertext">9</div>
+    <div class="numbertext">10</div>
     <img src="assets/img/slideshow/008.jpg" style="width:100%">
   </div>
 
   <div class="mySlides">
-    <div class="numbertext">10</div>
+    <div class="numbertext">11</div>
     <img src="assets/img/slideshow/009.jpg" style="width:100%">
   </div>
 
   <div class="mySlides">
-    <div class="numbertext">11</div>
+    <div class="numbertext">12</div>
     <img src="assets/img/slideshow/010.jpg" style="width:100%">
   </div>
 
   <div class="mySlides">
-    <div class="numbertext">12</div>
+    <div class="numbertext">13</div>
     <img src="assets/img/slideshow/011.gif" style="width:100%">
   </div>
 
