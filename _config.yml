@@ -267,7 +267,7 @@ jekyll-archives:
     category: "/lectures/category/:name/"
 
 display_tags: ["robotics","computer-vision","electronics", "5-minutes-or-less"] # these tags will be displayed on the front page of your blog
-display_categories: ["seminar", "course-lecture", "full-course", "conference-presentation"] # these categories will be displayed on the front page of your blog
+display_categories: ["Talks", "Seminar", "Course-lecture", "Full-course", "Conference-presentation"] # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
