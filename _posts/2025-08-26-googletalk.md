@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Google/Alphabet Modeling Talk Series - Predictive Pattern Recognition of Plant Growth Traits in Simulated and Controlled Environments
+title: (Google/Alphabet Modeling Talk Series) Predictive Pattern Recognition of Plant Growth Traits in Simulated and Controlled Environments
 date: 2025-08-26 12:00:00
 featured: true
 description:  This talk was presented for the Google/Alphabet Modeling Talk Series
 tags: simulation
-categories: talks
+categories: Talks
 citation: true
 ---
 
