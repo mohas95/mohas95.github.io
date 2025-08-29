@@ -53,7 +53,7 @@ ninja.data = [{
           },
         },{id: "post-google-alphabet-modeling-talk-series-predictive-pattern-recognition-of-plant-growth-traits-in-simulated-and-controlled-environments",
       
-        title: "Google/Alphabet Modeling Talk Series - Predictive Pattern Recognition of Plant Growth Traits in...",
+        title: "(Google/Alphabet Modeling Talk Series) Predictive Pattern Recognition of Plant Growth Traits in Simulated...",
       
       description: "This talk was presented for the Google/Alphabet Modeling Talk Series",
       section: "Posts",
