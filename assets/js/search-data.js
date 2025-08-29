@@ -51,7 +51,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/awards/";
           },
-        },{id: "post-simulation-and-modeling-for-digital-plant-growth-representations",
+        },{id: "post-google-alphabet-wide-modeling-talk-series",
+      
+        title: "Google/Alphabet wide Modeling Talk Series",
+      
+      description: "This presentation introduces key concepts and modeling paradigms towards developing a simulation framework for digital plant growth.",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/lectures/2025/googletalk/";
+        
+      },
+    },{id: "post-simulation-and-modeling-for-digital-plant-growth-representations",
       
         title: "Simulation and Modeling for Digital Plant Growth Representations.",
       
