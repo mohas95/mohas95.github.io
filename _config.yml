@@ -87,8 +87,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Featured lectures # blog_name will be displayed in your blog page
-blog_description: a selection of lectures, presentations and teaching materials
+blog_name: Featured lectures/talks # blog_name will be displayed in your blog page
+blog_description: a selection of lectures, talks, presentations and teaching materials
 permalink: /lectures/:year/:title/
 lsi: false # produce an index for related posts
 
