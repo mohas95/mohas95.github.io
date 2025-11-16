@@ -21,6 +21,17 @@ abstract = {Accurate predictions and representations of plant growth patterns in
 preview={02.png}
 }
 
+@article{jiang2025adapting,
+  abbr={PREPRINT},
+  bibtex_show={true},
+  title={Adapting SAM with Dynamic Similarity Graphs for Few-Shot Parameter-Efficient Small Dense Object Detection: A Case Study of Chickpea Pods in Field Conditions},
+  author={Jiang, Xintong and Liu, Yixue and Debbagh, Mohamed and Tian, Yu and Hoyos-Villegas, Valerio and Adamchuk, Viacheslav and Sun, Shangpeng},
+  arxiv={2509.25805},
+  year={2025},
+  doi={10.48550/arXiv.2509.25805},
+  abstract = {Parameter-Efficient Fine-Tuning (PEFT) of foundation models for agricultural computer vision tasks remains challenging due to limited training data and complex field conditions. This study introduces a Dynamic Similarity-based Graph Adaptation (DSGA) module to adapt the Segment Anything Model (SAM) under extreme data constraints for precise foreground and instance segmentation of small dense objects in complex agricultural environments. Through dynamic similarity graph construction with a learnable polynomial decay-initialized weight ranking mechanism and adaptive local feature aggregation, DSGA establishes robust spatial and dynamic similarity representation with only 4.00M trainable parameters, which is 4.26% of the original SAM. Integrating this graph-based feature adaptation with Low-Rank Adaptation (LoRA) creates a complementary optimization framework that effectively captures both local and global dependencies in image embeddings while preserving model stability and parameter efficiency. Experimental results on a challenging chickpea pod dataset demonstrated that DSGA with LoRA achieved superior performance across multiple metrics evaluated under 2, 4, 8 and 10 shots, with progressive performance gains as shot count increased. Quantitative metrics showed a 17.31% improvement in Structure-measure and a 62.36% gain in adaptive F-measure compared to the baseline SAM fine-tuning. Comprehensive ablation studies and visualization analyses through Grad-CAM and t-SNE validated the framework's effectiveness in feature discrimination. The proposed adaptation demonstrated practical utility for automated agricultural monitoring applications, achieving accurate pod-counting with an adjusted R-squared of 0.8987 for images with 10 to 120 pods under challenging field conditions.}
+}
+
 
 @InProceedings{Debbagh2024Generative,
 selected={true},
@@ -68,7 +79,7 @@ abstract={Neural Radiance Field (NeRF) is a framework that represents a 3D scene
 abbr={PREPRINT},
 bibtex_show={true},
 google_scholar_id={u-x6o8ySG0sC},
-title={Learning structured output representations from attributes using deep conditional generative models},
+title={Controlling structured output representations from attributes using deep conditional generative models},
 author={Debbagh, Mohamed},
 arxiv={2305.00980},
 year={2023},
