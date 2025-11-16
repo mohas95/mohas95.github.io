@@ -41,14 +41,14 @@ nav_order: 4
       <p><Strong>6th IVADO/Mila Deep Learning School</Strong> April 29, 2021</p>
     </li>
 
-    <li>
+    <!-- <li>
       <a href="/assets/certificates/Deep Learning Certificate_Udacity.pdf" target="_blank" rel="noopener noreferrer"><img src="/assets/certificates/preview/Deep Learning Certificate_Udacity.png"></a>
       <a href="/assets/certificates/Computer Vision Certificate_Udacity.pdf" target="_blank" rel="noopener noreferrer"><img src="/assets/certificates/preview/Computer Vision Certificate_Udacity.png"></a>
       <a href="/assets/certificates/Machine Learning with TensorFlow Certificate_Udacity.pdf" target="_blank" rel="noopener noreferrer"><img src="/assets/certificates/preview/Machine Learning with TensorFlow Certificate_Udacity.png"></a>
       <a href="/assets/certificates/Ai programming with python certificate_Udacity.pdf" target="_blank" rel="noopener noreferrer"><img src="/assets/certificates/preview/Ai programming with python certificate_Udacity.png"></a>
 
       <p><Strong>Deep Learning, Computer Vision, Machine Learning with TensorFlow, AI Programming with Python. Udacity</Strong> June-October, 2020</p>
-    </li>
+    </li> -->
   </ul>
 
 </div>
