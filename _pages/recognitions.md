@@ -7,7 +7,7 @@ nav: true
 nav_order: 4
 ---
 
-- **Research Fellowship at Building 21 (Blue Program).** 2024 ([Building 21](https://www.building21.ca/scholars/mohamed-debbagh))
+- **Research Fellowship at Building 21 (Blue Program).** 2024 ([Building 21](https://www.building21.ca/scholars/mohamed-debbagh-2))
 - **Student Experience Enhancement Fund (SEEF).** 2024 ([Award page](https://www.mcgill.ca/osas/internshipawards))
 - **Douglas and Doreen Jose Student Experience Enhancement Award.** 2023 ([Award page](https://www.mcgill.ca/osas/internshipawards), [report](https://www.mcgill.ca/osas/files/osas/mohammed_debaugh_et_al._seef_2023_deepbloom_open_source_sensor_platform.pdf))
 - **Innovative Solutions Canada (AAFC)- Controlled Environment Agriculture Farming Challenge grant recipient.** 2022 ([Grant page](https://ised-isde.canada.ca/site/innovative-solutions-canada/en/enhancing-automation-controlled-environment-agriculture-farming))
