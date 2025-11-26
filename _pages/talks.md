@@ -1,7 +1,7 @@
 ---
 layout: default
-permalink: /lectures/
-title: lectures
+permalink: /tals/
+title: talks
 nav: true
 nav_order: 2
 pagination:
