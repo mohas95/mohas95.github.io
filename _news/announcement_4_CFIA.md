@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Checkout my talk on [AI Systems in Controlled Environment Agriculture](https://www.youtube.com/live/uKepfZAnKbk) presented to the CFIA!
+Checkout my talk on [AI Systems in Controlled Environment Agriculture](https://mohas95.github.io/lectures/2025/CFIA/) presented to the CFIA!
