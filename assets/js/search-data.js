@@ -51,15 +51,15 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/awards/";
           },
-        },{id: "post-",
+        },{id: "post-mila-building-21-blue-fellowship-showcase-future-building-imagining-ethical-ai-alignment-applied-to-agricultural-autonomy",
       
-        title: "",
+        title: "(MILA/Building 21 BLUE Fellowship Showcase) Future Building Imagining Ethical AI Alignment Applied to...",
       
-      description: "",
+      description: "This project was presented as part of the 2026 MILA-Building 21 BLUE Fellowship showcase presenting discussions on AI Alignment",
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/lectures/2026/2026-01-23-B21Showcase2026/";
+          window.location.href = "/lectures/2026/B21Showcase2026/";
         
       },
     },{id: "post-canadian-food-inspection-agency-ai-systems-in-controlled-environment-agriculture",
