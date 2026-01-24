@@ -51,7 +51,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/awards/";
           },
-        },{id: "post-canadian-food-inspection-agency-ai-systems-in-controlled-environment-agriculture",
+        },{id: "post-",
+      
+        title: "",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/lectures/2026/2026-01-23-B21Showcase2026/";
+        
+      },
+    },{id: "post-canadian-food-inspection-agency-ai-systems-in-controlled-environment-agriculture",
       
         title: "(Canadian Food Inspection Agency) AI Systems in Controlled Environment Agriculture",
       
