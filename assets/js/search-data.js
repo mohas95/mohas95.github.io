@@ -53,7 +53,7 @@ ninja.data = [{
           },
         },{id: "post-mila-building-21-blue-fellowship-showcase-future-building-imagining-ethical-ai-alignment-applied-to-agricultural-autonomy",
       
-        title: "(MILA/Building 21 BLUE Fellowship Showcase) Future Building Imagining Ethical AI Alignment Applied to...",
+        title: "(MILA/Building 21 BLUE Fellowship Showcase) Future Building - Imagining Ethical AI Alignment Applied...",
       
       description: "This project was presented as part of the 2026 MILA-Building 21 BLUE Fellowship showcase presenting discussions on AI Alignment",
       section: "Posts",
