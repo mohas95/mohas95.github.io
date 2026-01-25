@@ -48,7 +48,7 @@ profile:
         <i class="fas fa-wave-square"></i>
         <a href="https://adamchukpa.mcgill.ca/">Precision Agriculture and Sensor Systems Lab</a>
       </small>
-    </p>
+    </p><br>
 
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -84,6 +84,8 @@ I am a currently a Ph.D. candidate in the department of Bioresource Engineering 
   - Quantitative Trait Extraction (Plant Phenotyping)
   - *In silico* Growth Simulation and Probabilistic Modeling
   - Control Systems and Optimization Algorithms
+
+<br>
 
 <br>
 
