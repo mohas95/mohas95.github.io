@@ -32,13 +32,13 @@ profile:
     <em><small>[Research Affiliations]</small></em><br>
     <p>
       <small>
-        <i class="fas fa-seedling"></i>
+        <i class="fa-sharp-duotone fa-light fa-leafy-green"></i>
         <a href='https://www.mcgill.ca/bioeng/faculty-and-staff/academic-staff/mark-lefsrud'>Biomass Production Lab</a>
       </small>
     </p><br>
     <p>
       <small>
-        <i class="fas fa-eye"></i>
+        <i class="fa-sharp-duotone fa-light fa-aperture"></i>
         <a href='https://shangpenglab.github.io/#/team'>Smart Production Systems Lab</a>
       </small>
     </p><br>
