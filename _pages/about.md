@@ -44,14 +44,14 @@ profile:
     </p><br>
     <p>
       <small>
-        <i class="fas fa-wave-square"></i>
+        <i class="fa-duotone fa-light fa-wave-square"></i>
         <a href="https://adamchukpa.mcgill.ca/"><s>Precision Ag. and Sensor Systems Lab</s></a>
       </small>
     </p><br>
     <em><small>[Industry Affiliations]</small></em><br>
     <p>
       <small>
-        <i class="fa-solid fa-strawberry"></i>
+        <i class="fa-duotone fa-light fa-strawberry"></i>
         <a href="https://www.fermedhiver.com/">Ferme d'Hiver</a>
       </small>
     </p><br>
