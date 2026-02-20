@@ -45,7 +45,7 @@ profile:
     <p>
       <small>
         <i class="fas fa-wave-square"></i>
-        <s><a href="https://adamchukpa.mcgill.ca/">Precision Ag. & Sensor Systems Lab</a></s> 
+        <s><a href="https://adamchukpa.mcgill.ca/">Precision Ag. and Sensor Systems Lab</a></s> 
       </small>
     </p><br>
     <em><small>[Industry Affiliations]</small></em><br>
