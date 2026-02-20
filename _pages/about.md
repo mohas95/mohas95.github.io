@@ -42,7 +42,6 @@ profile:
         <a href='https://shangpenglab.github.io/#/team'>Smart Production Systems Lab</a>
       </small>
     </p><br>
-    <em><small>...former member</small></em><br>
     <p>
       <small>
         <i class="fas fa-wave-square"></i>
