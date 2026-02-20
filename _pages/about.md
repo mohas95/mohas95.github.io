@@ -51,13 +51,13 @@ profile:
     <em><small>[Industry Affiliations]</small></em><br>
     <p>
       <small>
-        <i class="fas fa-duotone fa-light fa-strawberry"></i>
+        <i class="fas fa-strawberry"></i>
         <a href="https://www.fermedhiver.com/">Ferme d'Hiver</a>
       </small>
     </p><br>
     <p>
       <small>
-        <i class="fas fa-duotone fa-light fa-planet-moon"></i>
+        <i class="fas fa-planet-moon"></i>
         <a href="https://www.canadensys.com/canadensys-continues-collaborative-international-lunar-agriculture-work/">Canadian Space Agency × Canadensys Aerospace</a>
       </small>
     </p><br>
