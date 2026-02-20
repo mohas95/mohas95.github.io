@@ -45,7 +45,7 @@ profile:
     <p>
       <small>
         <i class="fas fa-wave-square"></i>
-        <em>(Former)</em><a href="https://adamchukpa.mcgill.ca/">Precision Ag. & Sensor Systems Lab</a> 
+        <s><a href="https://adamchukpa.mcgill.ca/">Precision Ag. & Sensor Systems Lab</a></s> 
       </small>
     </p><br>
     <em><small>[Industry Affiliations]</small></em><br>
@@ -58,7 +58,7 @@ profile:
     <p>
       <small>
         <i class="fa-duotone fa-light fa-planet-moon"></i>
-        <a href="https://www.canadensys.com/canadensys-continues-collaborative-international-lunar-agriculture-work/">Canadian Space Agency / Canadensys Aerospace</a>
+        <a href="https://www.canadensys.com/canadensys-continues-collaborative-international-lunar-agriculture-work/">Canadian Space Agency × Canadensys Aerospace</a>
       </small>
     </p><br>
 
