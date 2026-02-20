@@ -97,7 +97,8 @@ I am a currently a Ph.D. candidate in the department of Bioresource Engineering 
   - Control Systems and Optimization Algorithms
 
 <br>
-
+<br>
+<br>
 <br>
 
 #### Here is a gallery highlighting some of my work!
