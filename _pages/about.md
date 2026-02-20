@@ -51,7 +51,7 @@ profile:
     <em><small>[Industry Affiliations]</small></em><br>
     <p>
       <small>
-        <i class="fa-duotone fa-light fa-leafy-green"></i>
+        <i class="fas fa-duotone fa-light fa-leafy-green"></i>
         <a href="https://www.fermedhiver.com/">Ferme d'Hiver</a>
       </small>
     </p><br>
