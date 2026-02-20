@@ -46,7 +46,7 @@ profile:
     <p>
       <small>
         <i class="fas fa-wave-square"></i>
-        <a href="https://adamchukpa.mcgill.ca/">Precision Agriculture and Sensor Systems Lab</a>
+        <a href="https://adamchukpa.mcgill.ca/">Precision Agriculture and Sensor Systems Lab</a> (Former)
       </small>
     </p><br>
     <em><small>[Industry Affiliations]</small></em><br>
