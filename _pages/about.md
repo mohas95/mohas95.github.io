@@ -49,7 +49,19 @@ profile:
         <a href="https://adamchukpa.mcgill.ca/">Precision Agriculture and Sensor Systems Lab</a>
       </small>
     </p><br>
-
+    <em><small>[Industry Affiliations]</small></em><br>
+    <p>
+      <small>
+        <i class="fas fa-wave-square"></i>
+        <a href="https://www.fermedhiver.com/">Ferme d'Hiver</a>
+      </small>
+    </p><br>
+    <p>
+      <small>
+        <i class="fas fa-wave-square"></i>
+        <a href="https://www.canadensys.com/canadensys-continues-collaborative-international-lunar-agriculture-work/">Canadian Space Agency / Canadensys Aerospace</a>
+      </small>
+    </p><br>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
