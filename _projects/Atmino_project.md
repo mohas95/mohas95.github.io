@@ -1,7 +1,7 @@
 ---
 layout: distill
-title: Nutrino pico-based nutrient monitoring system
-permalink: /projects/Nutrino/
+title: Atmino pico-based environmental monitoring system
+permalink: /projects/Atmino/
 description: 
 img: assets/img/Nutrino.png
 importance: 1
