@@ -191,13 +191,18 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/robots/BERRE/";
+            },},{id: "projects-atmino-pico-based-environmental-monitoring-system",
+          title: 'Atmino pico-based environmental monitoring system',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/Atmino/";
             },},{id: "projects-kiichigo-motion-firmware",
           title: 'Kiichigo Motion Firmware',
           description: "Stepper motor motion firmware for RP2040-based microcontrollers (Raspberry Pi Pico). User-friendly library for abstracting stepper motor control for major stepper motor drivers. Simple motion planning for synchronous multi-axis machines such as CNC or 3D Printer. Compatibility with G-code.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/KiichigoFirmwar_project/";
-            },},{id: "projects-nutrino-nutrient-monitoring-system",
-          title: 'Nutrino nutrient monitoring system',
+            },},{id: "projects-nutrino-pico-based-nutrient-monitoring-system",
+          title: 'Nutrino pico-based nutrient monitoring system',
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Nutrino/";
