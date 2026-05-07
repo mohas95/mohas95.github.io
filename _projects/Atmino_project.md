@@ -5,7 +5,7 @@ permalink: /projects/Atmino/
 description: 
 img: assets/img/Atmino.png
 importance: 1
-category: open-source hardware
+category: open-source hardware system
 tags: distill formatting
 giscus_comments: false
 date: 2026-05-07
