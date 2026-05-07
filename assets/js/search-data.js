@@ -196,6 +196,11 @@ ninja.data = [{
           description: "Stepper motor motion firmware for RP2040-based microcontrollers (Raspberry Pi Pico). User-friendly library for abstracting stepper motor control for major stepper motor drivers. Simple motion planning for synchronous multi-axis machines such as CNC or 3D Printer. Compatibility with G-code.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/KiichigoFirmwar_project/";
+            },},{id: "projects-nutrino-nutrient-monitoring-system",
+          title: 'Nutrino nutrient monitoring system',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/Nutrino/";
             },},{
         id: 'social-email',
         title: 'email',
