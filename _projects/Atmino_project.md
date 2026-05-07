@@ -3,7 +3,7 @@ layout: distill
 title: Atmino pico-based environmental monitoring system
 permalink: /projects/Atmino/
 description: 
-img: assets/img/Nutrino.png
+img: assets/img/Atmino.png
 importance: 1
 category: open-source hardware
 tags: distill formatting
