@@ -5,7 +5,7 @@ permalink: /projects/Nutrino/
 description: 
 img: assets/img/Nutrino.png
 importance: 1
-category: open-source hardware
+category: open-source hardware system
 tags: distill formatting
 giscus_comments: false
 date: 2026-05-07
