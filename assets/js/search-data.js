@@ -200,12 +200,22 @@ ninja.data = [{
           title: 'Kiichigo Motion Firmware',
           description: "Stepper motor motion firmware for RP2040-based microcontrollers (Raspberry Pi Pico). User-friendly library for abstracting stepper motor control for major stepper motor drivers. Simple motion planning for synchronous multi-axis machines such as CNC or 3D Printer. Compatibility with G-code.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/KiichigoFirmwar_project/";
+              window.location.href = "/projects/KiichigoFirmware_project/";
             },},{id: "projects-nutrino-pico-based-nutrient-monitoring-system",
           title: 'Nutrino pico-based nutrient monitoring system',
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Nutrino/";
+            },},{id: "projects-pico-captive-connect-library",
+          title: 'Pico Captive Connect library',
+          description: "This library provides a captive portal and network provisioning system for the Raspberry Pi Pico W / Pico2 W. It allows your project to automatically bring up a Wi-Fi access point for configuration, save credentials in flash, connect to a Wi-Fi network (STA mode), and connect and publish to an MQTT broker.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/lib_pico_captive_connect/";
+            },},{id: "projects-pico-common-sensors-library",
+          title: 'Pico Common Sensors library',
+          description: "This is a library for compiling and interfacing with many off the shelf sensors with the raspberry pi pico, usually readily available for the arduino platform.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/lib_pico_common_sensors/";
             },},{
         id: 'social-email',
         title: 'email',
