@@ -216,6 +216,11 @@ ninja.data = [{
           description: "This is a library for compiling and interfacing with many off the shelf sensors with the raspberry pi pico, usually readily available for the arduino platform.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/lib_pico_common_sensors/";
+            },},{id: "projects-campi-server",
+          title: 'CamPi Server',
+          description: "This project creates a simple flask + openCV server for streaming video and accessing camera frames of standard V4l2 protocol usb cameras and luxionus depthai cameras on a rasberry pi (or linux/debian system).",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/pi_cam_server/";
             },},{
         id: 'social-email',
         title: 'email',
