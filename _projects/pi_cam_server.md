@@ -5,5 +5,5 @@ description: This project creates a simple flask + openCV server for streaming v
 img: assets/img/rpi_logo.png
 redirect: https://github.com/mohas95/pi_cam_server
 importance: 1
-category: software library
+category: utility software packages
 ---

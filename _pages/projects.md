@@ -5,7 +5,7 @@ permalink: /projects/
 description: A collection of projects highlighting some of my works.
 nav: false
 nav_order: 3
-display_categories: [research, open-source hardware system, software library]
+display_categories: [research, open-source hardware system,utility software packages,software library]
 horizontal: false
 ---
 
