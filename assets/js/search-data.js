@@ -221,6 +221,11 @@ ninja.data = [{
           description: "This project creates a simple flask + openCV server for streaming video and accessing camera frames of standard V4l2 protocol usb cameras and luxionus depthai cameras on a rasberry pi (or linux/debian system).",
           section: "Projects",handler: () => {
               window.location.href = "/projects/pi_cam_server/";
+            },},{id: "projects-wipi-network-gateway-and-web-portal",
+          title: 'WIPI Network Gateway and Web Portal',
+          description: "This project is aimed at creating a light weight gateway from the raspberry pi&#39;s wireless network card through its ethernet port to provide internet access to routers (particularly for IOT projects that dont have adminitrative access to Network IT).",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/wipi/";
             },},{
         id: 'social-email',
         title: 'email',
