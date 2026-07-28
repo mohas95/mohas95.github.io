@@ -392,7 +392,7 @@ input:checked + .slider:before {
 
   <div class="galrow">
     <div class="galcolumn">
-      <img class="demo cursor" src="assets/img/slideshow/015.gif" style="width:100%" onclick="currentSlide(1)" alt="">
+      <img class="demo cursor" src="assets/img/slideshow/016.gif" style="width:100%" onclick="currentSlide(1)" alt="">
     </div>
     <div class="galcolumn">
       <img class="demo cursor" src="assets/img/slideshow/001.jpg" style="width:100%" onclick="currentSlide(2)" alt="">
@@ -436,7 +436,7 @@ input:checked + .slider:before {
 
   <div class="mySlides">
     <div class="numbertext">1</div>
-    <img src="assets/img/slideshow/015.gif" style="width:100%">
+    <img src="assets/img/slideshow/016.gif" style="width:100%">
   </div>
 
   <div class="mySlides">
