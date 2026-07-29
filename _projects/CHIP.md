@@ -79,7 +79,22 @@ _styles: >
 The goal of this project is to build an open-source semi-autonomous robotics platform for indoor plant cultivation with the purpose of improving knowledge systems for plant growth and crop cultivation practices. The Controlled Hydrponics Imaging Platform (CHIP) consists of various hardware, sensor and software sub-systems which standardizes spatiotemporal data aquisition protocols for building high resolution pattern recognition datasets for implementation in several data fusion modeling techniques. 
 
 ### Research objectives of subsequent data system
-Aside from the delightful plants that are produced, CHIP's primary outputs are the rich datasets which consist of image, environmental and auxiliary datasets necessary for creating deep learning models capable of performing classification and sequential prediction task during a plants growth cycle. This platform simulates controlled environment agriculture growing conditions, especially for commercial indoor agriculture production. The CHIP&PRD is the first step toward a larger set of research objectives for my pHD which aim to answer the following questions.
+Aside from the delightful plants that are produced by our system, CHIP's primary outputs are the rich datasets which consist of multiple modalities of information: 
+
+
+| Left | Center | Right |
+|:-----|:------:|------:|
+| A    | B      | C     |
+| D    | E      | F     |
+
+
+- 2D images from direct camera readings(rgb and multispectral) and/or outputs from image processing techniques or computer vision models
+- Ambient environment data collected by environmental sensors ([atmino](https://mohas95.github.io/projects/Atmino/))
+- Nutrient Data 
+- Spatial data 
+
+
+ necessary for creating deep learning models capable of performing classification and sequential prediction task during a plants growth cycle. This platform simulates controlled environment agriculture growing conditions, especially for commercial indoor agriculture production. The CHIP&PRD is the first step toward a larger set of research objectives for my pHD which aim to answer the following questions.
 
 - Can we predict biomass production as well as key plant structures of leafy greens and more complex fruiting crops given a sequence of images, environmental and nutrient data throughout the growth under hydroponic conditions?
 - Can we classify and detect the occurrence of plant stress during the plants growth (Anomaly detection)?
@@ -89,20 +104,22 @@ Aside from the delightful plants that are produced, CHIP's primary outputs are t
 ### Documentation
 This page acts as the compilation of all documentation for the CHIP system for reproducing....
 
-## Contributors
+### Contributors
 
-### Development team
+#### Development team
 Mohamed Debbagh
 Axel refalo
 
-### Aknowledgement
+#### Aknowledgement
 Alice Aisi Liang
 Mark Lefsrud
 Shangpeng Sun
 
-### Project Collaborators
+#### Project Collaborators
 Nakiya
 Yasmeen Hitti
+Brandon Saulnier
+
 
 
 ---
@@ -153,48 +170,7 @@ return x \* x;
 
 ---
 
-## Interactive Plots
 
-You can add interative plots using plotly + iframes :framed_picture:
-
-<div class="l-page">
-  <iframe src="{{ '/assets/plotly/demo.html' | relative_url }}" frameborder='0' scrolling='no' height="500px" width="100%" style="border: 1px dashed grey;"></iframe>
-</div>
-
-The plot must be generated separately and saved into an HTML file.
-To generate the plot that you see above, you can use the following code snippet:
-
-{% highlight python %}
-import pandas as pd
-import plotly.express as px
-df = pd.read_csv(
-'https://raw.githubusercontent.com/plotly/datasets/master/earthquakes-23k.csv'
-)
-fig = px.density_mapbox(
-df,
-lat='Latitude',
-lon='Longitude',
-z='Magnitude',
-radius=10,
-center=dict(lat=0, lon=180),
-zoom=0,
-mapbox_style="stamen-terrain",
-)
-fig.show()
-fig.write_html('assets/plotly/demo.html')
-{% endhighlight %}
-
----
-
-## Details boxes
-
-Details boxes are collapsible boxes which hide additional information from the user. They can be added with the `details` liquid tag:
-
-{% details Click here to know more %}
-Additional details, where math $$ 2x - 1 $$ and `code` is rendered correctly.
-{% enddetails %}
-
----
 
 ## Mermaid
 
