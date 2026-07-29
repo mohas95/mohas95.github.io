@@ -74,12 +74,20 @@ _styles: >
   }
 ---
 
-## Project Overview
+## Project overview
 
 The goal of this project is to build an open-source semi-autonomous robotics platform for indoor plant cultivation with the purpose of improving knowledge systems for plant growth and crop cultivation practices. The Controlled Hydrponics Imaging Platform (CHIP) consists of various hardware, sensor and software sub-systems which standardizes spatiotemporal data aquisition protocols for building high resolution pattern recognition datasets for implementation in several data fusion modeling techniques. 
 
-### Research objectives
+### Research objectives of subsequent data system
+Aside from the delightful plants that are produced, CHIP's primary outputs are the rich datasets which consist of image, environmental and auxiliary datasets necessary for creating deep learning models capable of performing classification and sequential prediction task during a plants growth cycle. This platform simulates controlled environment agriculture growing conditions, especially for commercial indoor agriculture production. The CHIP&PRD is the first step toward a larger set of research objectives for my pHD which aim to answer the following questions.
 
+- Can we predict biomass production as well as key plant structures of leafy greens and more complex fruiting crops given a sequence of images, environmental and nutrient data throughout the growth under hydroponic conditions?
+- Can we classify and detect the occurrence of plant stress during the plants growth (Anomaly detection)?
+- Can we apply this model under less ideal conditions and lower quality or no image data to make similar predictions?
+
+
+### Documentation
+This page acts as the compilation of all documentation for the CHIP system for reproducing....
 
 ## Contributors
 
