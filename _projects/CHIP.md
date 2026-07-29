@@ -76,7 +76,7 @@ _styles: >
 
 ## Project Overview
 
-The goal of this project is to build an open-source semi-autonomous robotics platform for indoor plant cultivation with the purpose of establishing standardized spatiotemporal data aquisition protocols and to build high resolution pattern recognition datasets to improve knowledge of cultivation practices. 
+The goal of this project is to build an open-source semi-autonomous robotics platform for indoor plant cultivation with the purpose of improving knowledge systems for plant growth and crop cultivation. The Controlled Hydrponics Imaging Platform (CHIP) standardizes spatiotemporal data aquisition protocols for building high resolution pattern recognition datasets in which learning systems can be trained on. 
 
 
 ### Research objectives
