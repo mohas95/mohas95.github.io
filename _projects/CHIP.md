@@ -3,7 +3,7 @@ layout: distill
 title: (CHIP) Controlled Hydroponics Imaging Platform
 permalink: /projects/CHIP/
 description: 
-img: assets/img/slideshow/016.gif
+img: assets/img/chip.gif
 importance: 1
 category: research
 tags: distill formatting
