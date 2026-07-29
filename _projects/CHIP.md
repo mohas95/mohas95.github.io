@@ -76,20 +76,30 @@ _styles: >
 
 ## Project Overview
 
-The goal of this project is to build an open-source semi-autonomous robotics platform for indoor plant cultivation with the purpose of improving knowledge systems for plant growth and crop cultivation. The Controlled Hydrponics Imaging Platform (CHIP) standardizes spatiotemporal data aquisition protocols for building high resolution pattern recognition datasets in which learning systems can be trained on. 
-
+The goal of this project is to build an open-source semi-autonomous robotics platform for indoor plant cultivation with the purpose of improving knowledge systems for plant growth and crop cultivation practices. The Controlled Hydrponics Imaging Platform (CHIP) consists of various hardware, sensor and software sub-systems which standardizes spatiotemporal data aquisition protocols for building high resolution pattern recognition datasets for implementation in several data fusion modeling techniques. 
 
 ### Research objectives
 
-$$
-\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)
-$$
 
-Note that MathJax 3 is [a major re-write of MathJax](https://docs.mathjax.org/en/latest/upgrading/whats-new-3.0.html) that brought a significant improvement to the loading and rendering speed, which is now [on par with KaTeX](http://www.intmath.com/cg5/katex-mathjax-comparison.php).
+## Contributors
+
+### Development team
+Mohamed Debbagh
+Axel refalo
+
+### Aknowledgement
+Alice Aisi Liang
+Mark Lefsrud
+Shangpeng Sun
+
+### Project Collaborators
+Nakiya
+Yasmeen Hitti
+
 
 ---
 
-## Citations
+## Publications
 
 Citations are then used in the article body with the `<d-cite>` tag.
 The key attribute is a reference to the id provided in the bibliography.
