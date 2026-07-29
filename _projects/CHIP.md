@@ -1,6 +1,6 @@
 ---
 layout: distill
-title: CHIP: Controlled Hydroponics Imaging Platform
+title: (CHIP) Controlled Hydroponics Imaging Platform
 permalink: /projects/CHIP/
 description: 
 img: assets/img/slideshow/016.gif
