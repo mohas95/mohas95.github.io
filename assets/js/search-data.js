@@ -181,6 +181,11 @@ ninja.data = [{
           description: "a project that redirects to another website",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
+            },},{id: "projects-cotton-rover",
+          title: 'Cotton Rover',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/robots/CottonRover/";
             },},{id: "projects-berr-e",
           title: 'BERR-E',
           description: "",
@@ -191,16 +196,11 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Atmino/";
-            },},{id: "projects-",
-          title: '',
+            },},{id: "projects-chip-controlled-hydroponics-imaging-platform",
+          title: '(CHIP) Controlled Hydroponics Imaging Platform',
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/CHIP/";
-            },},{id: "projects-cotton-rover",
-          title: 'Cotton Rover',
-          description: "",
-          section: "Projects",handler: () => {
-              window.location.href = "/robots/CottonRover/";
             },},{id: "projects-kiichigo-motion-firmware",
           title: 'Kiichigo Motion Firmware',
           description: "Stepper motor motion firmware for RP2040-based microcontrollers (Raspberry Pi Pico). User-friendly library for abstracting stepper motor control for major stepper motor drivers. Simple motion planning for synchronous multi-axis machines such as CNC or 3D Printer. Compatibility with G-code.",
