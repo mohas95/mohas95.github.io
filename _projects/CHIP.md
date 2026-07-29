@@ -1,7 +1,7 @@
 ---
 layout: distill
 title: CHIP: Controlled Hydroponics Imaging Platform
-permalink: /robots/CottonRover/
+permalink: /projects/CHIP/
 description: 
 img: assets/img/slideshow/016.gif
 importance: 1
