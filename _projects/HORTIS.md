@@ -1,9 +1,9 @@
 ---
 layout: distill
-title: (CHIP) Controlled Hydroponics Imaging Platform
-permalink: /projects/CHIP/
+title: (HORTIS) Horticultural Observation and Robotics Testbed for Intelligent Systems (HORTIS)
+permalink: /projects/HORTIS/
 description: 
-img: assets/img/chip.gif
+img: assets/img/HORTIS.gif
 importance: 1
 category: research
 tags: distill formatting
@@ -79,17 +79,17 @@ _styles: >
 The goal of this project is to build an open-source semi-autonomous robotics platform for indoor plant cultivation with the purpose of improving knowledge systems for plant growth and crop cultivation practices. The Controlled Hydrponics Imaging Platform (CHIP) consists of various hardware, sensor and software sub-systems which standardizes spatiotemporal data aquisition protocols for building high resolution pattern recognition datasets for implementation in several data fusion modeling techniques. 
 
 ### Research objectives of subsequent data systems
-Aside from the delightful plants that are produced by our system, CHIP's primary outputs are the rich datasets which consist of multiple modalities of information: 
+Aside from the delightful plants that are produced by our system, CHIP's primary outputs are the rich datasets which consist of information across multiple modalities: 
 
 
 | Data Type | Description | Placement |
 |:-----|:------:|------:|
-| 2D Image Data | B      | C     |
+| 2D Image Sensor Data | B      | C     |
 | Image Processing/ Computer Vision Output    | E      | F     |
-| Ambient Environment    | E      | F     |
-| Reservoir Nutrient    | E      | F     |
+| Ambient Environment Sensor Data   | E      | F     |
+| Reservoir Nutrient Sensor   | E      | F     |
 | End-effector Spatial Position    | E      | F     |
-| 3D Reconstruction output   | E      | F     |
+| 3D structure Reconstruction output   | E      | F     |
 
 
 - 2D images from direct camera readings(rgb and multispectral) and/or outputs from image processing techniques or computer vision models
