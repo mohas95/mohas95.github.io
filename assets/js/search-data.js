@@ -196,8 +196,8 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Atmino/";
-            },},{id: "projects-hortis-horticultural-observation-and-robotics-testbed-for-intelligent-systems-hortis",
-          title: '(HORTIS) Horticultural Observation and Robotics Testbed for Intelligent Systems (HORTIS)',
+            },},{id: "projects-hortis-horticultural-observation-and-robotics-testbed-for-intelligent-systems",
+          title: '(HORTIS) Horticultural Observation and Robotics Testbed for Intelligent Systems',
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/HORTIS/";
