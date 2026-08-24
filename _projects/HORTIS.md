@@ -1,6 +1,6 @@
 ---
 layout: distill
-title: (HORTIS) Horticultural Observation and Robotics Testbed for Intelligent Systems (HORTIS)
+title: (HORTIS) Horticultural Observation and Robotics Testbed for Intelligent Systems
 permalink: /projects/HORTIS/
 description: 
 img: assets/img/HORTIS.gif
@@ -76,7 +76,7 @@ _styles: >
 
 ## Project overview
 
-The goal of this project is to build an open-source semi-autonomous robotics platform for indoor plant cultivation with the purpose of improving knowledge systems for plant growth and crop cultivation practices. The Controlled Hydrponics Imaging Platform (CHIP) consists of various hardware, sensor and software sub-systems which standardizes spatiotemporal data aquisition protocols for building high resolution pattern recognition datasets for implementation in several data fusion modeling techniques. 
+The goal of this project is to build an open-source semi-autonomous robotics platform for indoor plant cultivation with the purpose of improving knowledge systems for plant growth and crop cultivation practices. The Horticultural Observation and Robotics Testbed for Intelligent Systems (HORTIS) consists of various hardware, sensor and software sub-systems which standardizes spatiotemporal data aquisition protocols for building high resolution pattern recognition datasets for implementation in several data fusion modeling techniques. 
 
 ### Research objectives of subsequent data systems
 Aside from the delightful plants that are produced by our system, CHIP's primary outputs are the rich datasets which consist of information across multiple modalities: 
